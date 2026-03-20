@@ -1,0 +1,5 @@
+Machine learning is a subset of artificial intelligence that focuses on learning from data. 
+It allows systems to improve their performance over time without being explicitly programmed. 
+Machine learning algorithms are widely used in recommendation systems, fraud detection, and healthcare. 
+These models can identify patterns and make predictions based on historical data. 
+The adoption of machine learning is increasing across various industries.
