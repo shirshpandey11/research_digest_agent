@@ -1,0 +1,92 @@
+[
+  {
+    "source": "data/sample1.txt",
+    "claims": [
+      {
+        "claim": "It enables machines to perform tasks that typically require human intelligence, such as decisionmaking and problemsolving.",
+        "evidence": "It enables machines to perform tasks that typically require human intelligence, such as decisionmaking and problemsolving.",
+        "score": 3.15676875906238
+      },
+      {
+        "claim": "Many organizations are investing heavily in AI technologies to gain a competitive advantage.",
+        "evidence": "Many organizations are investing heavily in AI technologies to gain a competitive advantage.",
+        "score": 2.7960032533113264
+      },
+      {
+        "claim": "Businesses use AI to improve efficiency and reduce operational costs.",
+        "evidence": "Businesses use AI to improve efficiency and reduce operational costs.",
+        "score": 2.7960032533113264
+      },
+      {
+        "claim": "AI systems can analyze large volumes of data quickly and accurately.",
+        "evidence": "AI systems can analyze large volumes of data quickly and accurately.",
+        "score": 2.7960032533113264
+      },
+      {
+        "claim": "Artificial Intelligence AI is rapidly transforming modern industries.",
+        "evidence": "Artificial Intelligence AI is rapidly transforming modern industries.",
+        "score": 2.6075073730577962
+      }
+    ]
+  },
+  {
+    "source": "data/sample2.txt",
+    "claims": [
+      {
+        "claim": "Machine learning algorithms are widely used in recommendation systems, fraud detection, and healthcare.",
+        "evidence": "Machine learning algorithms are widely used in recommendation systems, fraud detection, and healthcare.",
+        "score": 3.1283164668795784
+      },
+      {
+        "claim": "These models can identify patterns and make predictions based on historical data.",
+        "evidence": "These models can identify patterns and make predictions based on historical data.",
+        "score": 2.822383236570648
+      },
+      {
+        "claim": "It allows systems to improve their performance over time without being explicitly programmed.",
+        "evidence": "It allows systems to improve their performance over time without being explicitly programmed.",
+        "score": 2.6393795924936434
+      },
+      {
+        "claim": "Machine learning is a subset of artificial intelligence that focuses on learning from data.",
+        "evidence": "Machine learning is a subset of artificial intelligence that focuses on learning from data.",
+        "score": 2.596005644160365
+      },
+      {
+        "claim": "The adoption of machine learning is increasing across various industries.",
+        "evidence": "The adoption of machine learning is increasing across various industries.",
+        "score": 2.412837566927271
+      }
+    ]
+  },
+  {
+    "source": "data/sample3.txt",
+    "claims": [
+      {
+        "claim": "Automation systems can perform repetitive tasks faster and with fewer errors.",
+        "evidence": "Automation systems can perform repetitive tasks faster and with fewer errors.",
+        "score": 2.7960032533113264
+      },
+      {
+        "claim": "As technology advances, automation is expected to play an even bigger role in the future.",
+        "evidence": "As technology advances, automation is expected to play an even bigger role in the future.",
+        "score": 2.7960032533113264
+      },
+      {
+        "claim": "Many industries rely on automation to streamline operations and improve efficiency.",
+        "evidence": "Many industries rely on automation to streamline operations and improve efficiency.",
+        "score": 2.6113106124353536
+      },
+      {
+        "claim": "Automation powered by artificial intelligence is transforming how businesses operate.",
+        "evidence": "Automation powered by artificial intelligence is transforming how businesses operate.",
+        "score": 2.6113106124353536
+      },
+      {
+        "claim": "It reduces the need for manual work and increases productivity.",
+        "evidence": "It reduces the need for manual work and increases productivity.",
+        "score": 2.449489742783178
+      }
+    ]
+  }
+]
